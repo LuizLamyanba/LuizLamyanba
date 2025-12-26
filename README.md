@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hey there!
+
 
 I'm **Luiz Lamyanba**, an aspiring **Cloud Security Engineer** and an **ECE undergraduate** based in India 🇮🇳.
 
