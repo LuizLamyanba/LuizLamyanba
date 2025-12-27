@@ -38,6 +38,7 @@ If something feels confusing in cloud or security — chances are I’m already 
 
 **Programming & Scripting**
 - Python (boto3)
+- Java
 - Bash
 
 **DevSecOps & Tools**
