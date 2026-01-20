@@ -34,7 +34,7 @@ If something feels confusing in cloud or security — chances are I’m already 
 ## 🛠️ Tech Stack (Growing with My Journey)
 
 **Cloud**
-- AWS (EC2, S3, IAM, CloudFormation)
+- AWS (EC2, S3, IAM, CloudFormation, Lambda, API Gateway)
 
 **Programming & Scripting**
 - Python (boto3)
